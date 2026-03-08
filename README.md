@@ -2,9 +2,14 @@
 
 ⚙️ DevOps 
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>
+Docker
+</td>
+</tr>
+</table>
 
 
 
