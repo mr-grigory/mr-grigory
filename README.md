@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🧰 Tech Stack
+
+⚙️ DevOps 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
 
 <!--
 **mr-grigory/mr-grigory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
